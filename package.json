@@ -1,6 +1,6 @@
 {
   "name": "shortest-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {
@@ -31,14 +31,16 @@
     "typescript-eslint": "^8.39.1"
   },
   "keywords": [
-    "pacman",
-    "map",
-    "generator",
-    "game"
+    "pathfinding",
+    "a-star",
+    "astar",
+    "a*",
+    "shortest-path",
+    "algorithm"
   ],
   "author": "parkerstovall",
   "license": "MIT",
-  "description": "Generates a random pacman map",
+  "description": "A TypeScript library that implements the A* (A-star) pathfinding algorithm to find the shortest path on a grid.",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
