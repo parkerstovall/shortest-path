@@ -1,4 +1,4 @@
-# Pac-Man Map Generator
+# Shortest Path
 
 A lightweight TypeScript utility for generating the shortest path on a grid, or an empty array if there is no path.
 
